@@ -15,7 +15,7 @@ https://github.com/Besty0728/OpenWebUI-Base64-Image/blob/main/image_decoder_pipe
 ### 3.⚠️ 重要提示，不要改动Pipe的Pipe ID，必须保持为 `image_decoder_pipe`，否则无法正常工作。（除非你将我们的文件名称一并改动）
 这个值目前是硬编码，必须完全匹配，未来版本或许可配置
 
-### 4. 导入后，您应该会在功能列表中看到 `image_decoder_pipe` 。
+### 4. 导入后，您应该会在功能列表中看到 `OpenWebUI-Base图片解码器` 。
 填入你的
 - 自定义API请求地址
 - 你的 API Key
