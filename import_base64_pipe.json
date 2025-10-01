@@ -1,0 +1,7 @@
+{
+  "id": "image_decoder_pipe",
+  "name": "OpenWebUI-Base_pipe",
+  "author": "Besty",
+  "description": "A Pipe for an API model that handles Base64 encoded images.",
+  "git_url": "https://github.com/Besty0728/OpenWebUI-Base64-Image/blob/main/image_decoder_pipe.py"
+}
